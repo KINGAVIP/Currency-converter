@@ -1,7 +1,3 @@
-#from ipywidgets import interact, interactive, fixed, interact_manual
-#mport ipywidgets as widgets
-
-
 def converter(amount):
     dics = {}
     with open('curremcy.txt') as f:
